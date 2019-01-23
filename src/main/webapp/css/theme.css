@@ -1,0 +1,57 @@
+body {
+    margin: auto;
+    background-color: #ccc;
+    font-family: 'Slabo 27px', serif;
+    font-size: 16pt;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: #111111;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 10pt;
+}
+
+.main {
+    margin: 10px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid #888;
+}
+
+th {
+    font-size: 14pt;
+    background-color: #999;
+}
+
+td {
+    background-color: #ddd;
+}
+
+th, td {
+    padding: 15px;
+}
