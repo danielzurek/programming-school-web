@@ -1,5 +1,5 @@
-# Workshop3
-Web application for coding school. Used technologies: Servlets, JSP. 
+# Programming School Web Version
+Java EE web application for programming school. Used technologies: JAVA EE, Servlets, JSP. 
 
 Small web application has been made at third module of Java Web Developer course. 
 
